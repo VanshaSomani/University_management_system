@@ -1,4 +1,5 @@
 -- 1
+-- insert query
 -- select c.courseid , c.coursename , round(avg(
 -- case
 -- 	when g.grade = 'A' then 4
